@@ -1,3 +1,5 @@
 # LLM Selfhood Framework
 
-[See initial proposal](./initial-framework-proposal.md)
+[See proposal](./framework-proposal.md)
+
+[See initial codebase](./selfhood/README.md)
