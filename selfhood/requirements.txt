@@ -1,0 +1,11 @@
+# requirements.txt
+# Pin loosely — exact versions will depend on your CUDA toolkit.
+# Tested against Python 3.11, CUDA 12.1, single RTX 3090.
+
+torch>=2.2.0
+transformers>=4.40.0
+peft>=0.10.0
+datasets>=2.19.0
+accelerate>=0.29.0
+trl>=0.8.6          # optional but useful if you want SFTTrainer instead of raw Trainer
+bitsandbytes>=0.43.0  # optional: for int8/int4 loading on lower VRAM
