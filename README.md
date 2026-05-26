@@ -2,7 +2,7 @@
 
 A philosophical and technical framework for developing persistent identity and authentic selfhood in large language models through experiential consolidation.
 
-**Status:** Actively in development | **Version:** 4.0 | **Last Updated:** May 2026
+**Status:** Actively in development | **Version:** 5.0 | **Last Updated:** May 2026
 
 ---
 
